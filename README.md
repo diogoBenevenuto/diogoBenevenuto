@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Diogo Benevenuto 👋🏼 
+### Hello! I'm Diogo Benevenuto 👋🏼 
 
 <div>
 <a href="https://www.linkedin.com/in/diogo-benevenuto-da-silva-monteiro-b504451ab/"target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -13,7 +13,7 @@
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogobenevenuto&show_icons=true&theme=tokyonight)
 
 
-## Tecnologias que utilizo 👨🏽‍💻
+## Technologies I use 👨🏽‍💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,7 +28,7 @@
 
 Amo a tecnologia e sou apaixonado por games! Eu adoro criar jogos e sites e, estar sempre aprendendo coisas novas.
 
-## Portifolio de Desgin 2D/3D
+## 2D/3D Design Portfolio
 
 - [Artstation](https://www.artstation.com/diogobenevenuto)
 - [Sketchfab](https://sketchfab.com/DiogoBenevenuto)
