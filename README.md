@@ -25,7 +25,7 @@
     
 </div><br/>
 
-Amo a tecnologia e sou apaixonado por games! Eu adoro criar jogos e sites e, estar sempre aprendendo coisas novas.
+I love technology and I'm passionate about games! I love creating games and websites and always learning new things.
 
 ## 2D/3D Design Portfolio
 
