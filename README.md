@@ -12,17 +12,21 @@
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogobenevenuto&show_icons=true&theme=tokyonight)
 
 
-## Technologies I use 👨🏽‍💻
+## Technologies I use and study 👨🏽‍💻
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    
+    <img align="center" alt="hmtl5" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
+    <img align="center" alt="css" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" />
+    <img align="center" alt="c#" src="https://icongr.am/devicon/csharp-original.svg?size=55&color=currentColor" />
+    <img align="center" alt="c++" src="https://icongr.am/devicon/cplusplus-original.svg?size=55&color=currentColor" />
+    <img align="center" alt="react" src="https://icongr.am/devicon/react-original-wordmark.svg?size=55&color=currentColor" />
+    <img align="center" alt="javascript" src="https://img.icons8.com/color/javascript.png" />
+    <img align="center" alt="java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=55&color=currentColor" />
+    <img align="center" alt="nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=55&color=currentColor" />
+    <img align="center" alt="python" src="https://icongr.am/devicon/python-original.svg?size=55&color=currentColor" />
+    <img align="center" alt="blender" src="https://skillicons.dev/icons?i=blender" />
+    <img align="center" alt="unreal" src="https://skillicons.dev/icons?i=unreal" />
+    <img align="center" alt="unity" src="https://skillicons.dev/icons?i=unity" />
 </div><br/>
 
 I love technology and I'm passionate about games! I love creating games and websites and always learning new things.
