@@ -11,6 +11,9 @@
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogobenevenuto&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobenevenuto&layout=compact)](https://github.com/diogobenevenuto/github-readme-stats)
+
+
 
 ## Technologies I use and study 👨🏽‍💻
 
