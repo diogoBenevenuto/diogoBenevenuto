@@ -9,9 +9,10 @@
 
 </div>
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogobenevenuto&show_icons=true&theme=tokyonight)
+![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogobenevenuto&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobenevenuto&layout=compact)](https://github.com/diogobenevenuto/github-readme-stats)
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogobenevenuto&layout=compact&langs_count=7&theme=transparent"/>
+
 
 
 
