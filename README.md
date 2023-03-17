@@ -31,6 +31,8 @@
     <img align="center" alt="blender" src="https://skillicons.dev/icons?i=blender" />
     <img align="center" alt="unreal" src="https://skillicons.dev/icons?i=unreal" />
     <img align="center" alt="unity" src="https://skillicons.dev/icons?i=unity" />
+    <img align="center" alt="github" src="https://skillicons.dev/icons?i=github" />
+    <img align="center" alt="git" src="https://skillicons.dev/icons?i=git" />
 </div><br/>
 
 I love technology and I'm passionate about games! I love creating games and websites and always learning new things.
