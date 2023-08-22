@@ -22,8 +22,6 @@
     <img align="center" alt="hmtl5" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
     <img align="center" alt="css" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" />
     <img align="center" alt="c#" src="https://icongr.am/devicon/csharp-original.svg?size=55&color=currentColor" />
-    <img align="center" alt="c++" src="https://icongr.am/devicon/cplusplus-original.svg?size=55&color=currentColor" />
-    <img align="center" alt="react" src="https://icongr.am/devicon/react-original-wordmark.svg?size=55&color=currentColor" />
     <img align="center" alt="javascript" src="https://img.icons8.com/color/javascript.png" />
     <img align="center" alt="java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=55&color=currentColor" />
     <img align="center" alt="nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=55&color=currentColor" />
