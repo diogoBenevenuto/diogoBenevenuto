@@ -20,9 +20,9 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="react" src="https://icongr.am/devicon/react-original-wordmark.svg?size=55&color=currentColor" />
+    <img align="center" alt="javascript" src="https://img.icons8.com/color/javascript.png" />
     <img align="center" alt="c#" src="https://icongr.am/devicon/csharp-original.svg?size=55&color=currentColor" />
     <img align="center" alt="c++" src="https://icongr.am/devicon/cplusplus-original.svg?size=55&color=currentColor" />
-    <img align="center" alt="javascript" src="https://img.icons8.com/color/javascript.png" />
     <img align="center" alt="java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=55&color=currentColor" />
     <img align="center" alt="blender" src="https://skillicons.dev/icons?i=blender" />
     <img align="center" alt="unreal" src="https://skillicons.dev/icons?i=unreal" />
