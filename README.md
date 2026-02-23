@@ -9,12 +9,6 @@
 
 </div>
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogobenevenuto&show_icons=true&theme=transparent)
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogobenevenuto&layout=compact&langs_count=7&theme=transparent"/>
-
-
-
 
 ## Technologies I use and study 👨🏽‍💻
 
