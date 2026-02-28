@@ -26,8 +26,3 @@
 </div><br/>
 
 I love technology and I'm passionate about games! I love creating games and websites and always learning new things.
-
-## 2D/3D Design Portfolio
-
-- [Artstation](https://www.artstation.com/diogobenevenuto)
-- [Sketchfab](https://sketchfab.com/DiogoBenevenuto)
