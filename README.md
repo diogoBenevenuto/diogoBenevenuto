@@ -16,6 +16,7 @@
     <img align="center" alt="java" src="https://skillicons.dev/icons?i=java" />
     <img align="center" alt="spring" src="https://skillicons.dev/icons?i=spring" />
     <img align="center" alt="angular" src="https://skillicons.dev/icons?i=angular" />
+    <img align="center" alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
     <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js" />
     <img align="center" alt="c#" src="https://skillicons.dev/icons?i=cs" />
     <img align="center" alt="c++" src="https://skillicons.dev/icons?i=cpp" />
