@@ -27,4 +27,7 @@
     <img align="center" alt="git" src="https://skillicons.dev/icons?i=git" />
 </div><br/>
 
-I love technology and I'm passionate about games! I love creating games and websites and always learning new things.
+I am a software developer with experience in backend and game development.  
+I work with **Java, Spring, Node.js, C#, SQL**, building **REST APIs**, **automated testing**, and **microservices architecture**, as well as developing games using **Unity** and **Unreal Engine**.
+
+I have experience in **programming**, **system development**, **gameplay mechanics**, **prototyping**, **3D modeling**, and version control using **Git**.
