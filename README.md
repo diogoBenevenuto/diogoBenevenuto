@@ -1,16 +1,27 @@
-
 ### Hello! I'm Diogo Benevenuto 👋🏼 
 
-<div>
-<a href="https://www.linkedin.com/in/diogo-benevenuto-b504451ab/"target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/diogobenevenuto"target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitch.tv/dgames_lab"target="blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://api.whatsapp.com/send?phone=5524998630470&text=Meu%20contato"target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://diogo-benevenuto.netlify.app/)
 
+<div>
+<a href="https://www.linkedin.com/in/diogo-benevenuto-b504451ab/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/diogobenevenuto" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitch.tv/dgames_lab" target="blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=5524998630470&text=Meu%20contato" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
+---
 
-## Technologies I use and study 👨🏽‍💻
+## 👨‍💻 About Me
+
+I am a **software developer** with experience in **backend development** and **game development**.  
+I have professional experience working with system development, business logic, and databases, always focusing on writing clean, efficient, and scalable code.
+
+I work with **Java, Spring, Node.js, C#, SQL**, building **REST APIs**, **automated testing**, and **microservices architecture**.  
+In addition, I develop games using **Unity** and **Unreal Engine**, focusing on gameplay mechanics, prototyping, and interactive experiences.
+
+---
+
+## 🛠️ Technologies I Use and Study
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://skillicons.dev/icons?i=java" />
@@ -27,7 +38,25 @@
     <img align="center" alt="git" src="https://skillicons.dev/icons?i=git" />
 </div><br/>
 
-I am a software developer with experience in backend and game development.  
-I work with **Java, Spring, Node.js, C#, SQL**, building **REST APIs**, **automated testing**, and **microservices architecture**, as well as developing games using **Unity** and **Unreal Engine**.
+---
 
-I have experience in **programming**, **system development**, **gameplay mechanics**, **prototyping**, **3D modeling**, and version control using **Git**.
+## 🚀 What I Work With
+
+- Backend development and APIs
+- Microservices architecture
+- Game development and gameplay systems
+- System design and application structure
+- Database modeling and integration
+
+---
+
+## 🤝 Collaboration
+
+I’m always open to collaborating on projects related to:
+- Backend development
+- Game development
+- Creative and interactive applications
+
+Feel free to reach out or connect with me!
+
+---
